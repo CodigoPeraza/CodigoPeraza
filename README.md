@@ -68,6 +68,7 @@ También práctico bases de datos relacionales, pruebas automatizadas, seguridad
 | [sql-lab-inventario](https://github.com/CodigoPeraza/sql-lab-inventario) | Modelo normalizado, triggers de stock, procedimiento, vistas, roles y backup/restore con MariaDB y Docker | SQL, MariaDB, Docker, Bash |
 | [micro-clipboard-wayland](https://github.com/CodigoPeraza/micro-clipboard-wayland) | Integración del portapapeles del sistema con Micro mediante secuencias OSC 52 en terminal, incluyendo configuración, pruebas y notas de seguridad | Shell, Linux, Micro |
 | [Integracion-IA-Emacs](https://github.com/CodigoPeraza/Integracion-IA-Emacs) | Configuración personal de Emacs Prelude con GPTel + Ollama, panel LSP y flujos de generación y refactorización de código | Emacs Lisp, Emacs Prelude, Ollama, LSP |
+| [network-lab-vlan](https://github.com/CodigoPeraza/network-lab-vlan) | VLANs, trunks, router-on-a-stick, DHCP y ACL con configuraciones de referencia y guía de verificación para Packet Tracer | Cisco IOS, VLANs, Routing, ACL |
 | [packettracer-fedora](https://github.com/CodigoPeraza/packettracer-fedora) | Fork de referencia para instalar Cisco Packet Tracer en Fedora; lo uso para practicar redes y administración de paquetes | Bash, Fedora, Redes |
 
 > `packettracer-fedora` es un fork de referencia; no es de mi autoría. Lo enlazo por mi interés en redes, Linux y administración de sistemas.
