@@ -2,26 +2,46 @@
 
 # Javier Peraza
 
-**Desarrollo de software · Android · Backend · Web**
+**Ingeniería de Software | Sistemas e Infraestructura | Soporte TI, Operaciones y Automatización**
 
 [![GitHub](https://img.shields.io/badge/GitHub-CodigoPeraza-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CodigoPeraza)
 [![X](https://img.shields.io/badge/X-@CodigoPeraza-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/CodigoPeraza)
 [![Email](https://img.shields.io/badge/Email-contacto.peraza@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contacto.peraza@gmail.com)
 ![Ubicación](https://img.shields.io/badge/El_Salvador-0B5394?style=flat-square&logo=googlemaps&logoColor=white)
 
-*Jardinero de día, programador de noche.*
-
 </div>
+
+```bash
+$ whoami
+javier
+$ echo $SHELL
+/bin/bash
+$ echo $EDITOR
+emacs
+```
 
 ## Sobre mí
 
-Soy estudiante de Ingeniería en Desarrollo de Software y construyo proyectos para llevar la teoría a aplicaciones funcionales. Mi enfoque actual está en el desarrollo Android con Java, el backend con Spring Boot y Laravel, y los fundamentos de sistemas con C y ensamblador.
+Me formo en Ingeniería de Software y me interesa la intersección entre el desarrollo, los sistemas y la infraestructura. Disfruto construir aplicaciones, pero también entender y operar el entorno donde se ejecutan: Linux, terminal, shell, contenedores y redes.
 
-Me interesa escribir código claro, entender cómo funcionan las cosas por dentro y documentar cada proyecto para que pueda ser ejecutado, revisado y mantenido por otra persona.
+Mi experiencia práctica viene de proyectos académicos y personales: aplicaciones Android con Java, backends con Spring Boot y Laravel, configuraciones de Linux y Emacs, y scripts para automatizar tareas. Busco seguir creciendo en roles que combinen software, soporte TI, operaciones y automatización.
+
+Me gusta documentar lo que hago para que otra persona pueda ejecutarlo, revisarlo y mantenerlo.
 
 ## Stack
 
-**Lenguajes**
+**Sistemas e infraestructura**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat-square&logo=openssh&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=flat-square&logo=gnuemacs&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+**Desarrollo**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -30,9 +50,6 @@ Me interesa escribir código claro, entender cómo funcionan las cosas por dentr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Mobile y backend**
-
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -41,18 +58,26 @@ Me interesa escribir código claro, entender cómo funcionan las cosas por dentr
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Herramientas**
+**Build y entornos**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
 ## Proyectos destacados
+
+### Sistemas, Linux y automatización
+
+| Proyecto | Qué demuestra | Stack |
+| --- | --- | --- |
+| [micro-clipboard-wayland](https://github.com/CodigoPeraza/micro-clipboard-wayland) | Integración del portapapeles del sistema con Micro mediante secuencias OSC 52 en terminal, incluyendo configuración, pruebas y notas de seguridad | Shell, Linux, Micro |
+| [Integracion-IA-Emacs](https://github.com/CodigoPeraza/Integracion-IA-Emacs) | Configuración personal de Emacs Prelude con GPTel + Ollama, panel LSP y flujos de generación y refactorización de código | Emacs Lisp, Emacs Prelude, Ollama, LSP |
+| [packettracer-fedora](https://github.com/CodigoPeraza/packettracer-fedora) | Fork de referencia para instalar Cisco Packet Tracer en Fedora; lo uso para practicar redes y administración de paquetes | Bash, Fedora, Redes |
+
+> `packettracer-fedora` es un fork de referencia; no es de mi autoría. Lo enlazo por mi interés en redes, Linux y administración de sistemas.
+
+### Desarrollo de software
 
 | Proyecto | Qué demuestra | Stack |
 | --- | --- | --- |
@@ -63,23 +88,21 @@ Me interesa escribir código claro, entender cómo funcionan las cosas por dentr
 | [Proyecto DAW Web](https://github.com/CodigoPeraza/proyecto-daw-web) | Landing responsive con Flexbox y menú móvil sin JavaScript | HTML5, CSS3 |
 | [Curso Programación Estructurada](https://github.com/CodigoPeraza/curso-programacion-estructurada) | Repaso interactivo de fundamentos de C++ | C++, consola |
 
-## Estadísticas de GitHub
+## Lenguajes en mis repositorios
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CodigoPeraza&show_icons=true&hide_border=true&locale=es&rank_icon=github" alt="Estadísticas de GitHub de Javier Peraza" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodigoPeraza&layout=compact&hide_border=true&locale=es&langs_count=8" alt="Lenguajes más utilizados por Javier Peraza" />
-
-![Racha de contribuciones](https://streak-stats.demolab.com?user=CodigoPeraza&locale=es&hide_border=true)
 
 </div>
 
 ## Áreas de interés
 
-- Desarrollo de aplicaciones Android con arquitectura mantenible.
-- APIs y aplicaciones web con Spring Boot y Laravel.
-- Fundamentos de sistemas, C y programación de bajo nivel.
-- Automatización y herramientas para Linux.
+- Administración y operación de sistemas Linux.
+- Infraestructura, contenedores y despliegues.
+- Soporte TI y automatización de tareas con shell.
+- Redes y herramientas de simulación.
+- Desarrollo de software con base sistémica: Android, Spring Boot y Laravel.
 - Documentación técnica y buenas prácticas de desarrollo.
 
 ## Contacto
