@@ -11,15 +11,6 @@
 
 </div>
 
-```bash
-$ whoami
-javier
-$ echo $SHELL
-/bin/bash
-$ echo $EDITOR
-emacs
-```
-
 ## Sobre mí
 
 Me formo en Ingeniería de Software y me interesa la intersección entre el desarrollo, los sistemas y la infraestructura. Disfruto construir aplicaciones, pero también entender y operar el entorno donde se ejecutan: Linux, terminal, shell, contenedores y redes.
