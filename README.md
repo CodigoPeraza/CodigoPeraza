@@ -17,7 +17,7 @@ Me formo en Ingeniería de Software y me interesa la intersección entre el desa
 
 Mi experiencia práctica viene de proyectos académicos y personales: aplicaciones Android con Java, backends con Spring Boot y Laravel, configuraciones de Linux y Emacs, y scripts para automatizar tareas. Busco seguir creciendo en roles que combinen software, soporte TI, operaciones y automatización.
 
-Me gusta documentar lo que hago para que otra persona pueda ejecutarlo, revisarlo y mantenerlo.
+También práctico bases de datos relacionales, pruebas automatizadas, seguridad de aplicaciones y despliegue en la nube. Me gusta documentar lo que hago para que otra persona pueda ejecutarlo, revisarlo y mantenerlo.
 
 ## Stack
 
@@ -39,6 +39,7 @@ Me gusta documentar lo que hago para que otra persona pueda ejecutarlo, revisarl
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -54,6 +55,7 @@ Me gusta documentar lo que hago para que otra persona pueda ejecutarlo, revisarl
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
 ## Proyectos destacados
@@ -62,6 +64,8 @@ Me gusta documentar lo que hago para que otra persona pueda ejecutarlo, revisarl
 
 | Proyecto | Qué demuestra | Stack |
 | --- | --- | --- |
+| [linux-ops-toolkit](https://github.com/CodigoPeraza/linux-ops-toolkit) | Scripts de respaldo, reporte de disco, auditoría de usuarios y SSH, limpieza segura de logs y health checks con systemd | Bash, Linux, systemd, ShellCheck |
+| [sql-lab-inventario](https://github.com/CodigoPeraza/sql-lab-inventario) | Modelo normalizado, triggers de stock, procedimiento, vistas, roles y backup/restore con MariaDB y Docker | SQL, MariaDB, Docker, Bash |
 | [micro-clipboard-wayland](https://github.com/CodigoPeraza/micro-clipboard-wayland) | Integración del portapapeles del sistema con Micro mediante secuencias OSC 52 en terminal, incluyendo configuración, pruebas y notas de seguridad | Shell, Linux, Micro |
 | [Integracion-IA-Emacs](https://github.com/CodigoPeraza/Integracion-IA-Emacs) | Configuración personal de Emacs Prelude con GPTel + Ollama, panel LSP y flujos de generación y refactorización de código | Emacs Lisp, Emacs Prelude, Ollama, LSP |
 | [packettracer-fedora](https://github.com/CodigoPeraza/packettracer-fedora) | Fork de referencia para instalar Cisco Packet Tracer en Fedora; lo uso para practicar redes y administración de paquetes | Bash, Fedora, Redes |
@@ -72,6 +76,10 @@ Me gusta documentar lo que hago para que otra persona pueda ejecutarlo, revisarl
 
 | Proyecto | Qué demuestra | Stack |
 | --- | --- | --- |
+| [data-structures-testing-lab](https://github.com/CodigoPeraza/data-structures-testing-lab) | Pila, cola, lista enlazada, árbol binario de búsqueda y validador de corchetes con pruebas JUnit 5, cobertura y CI | Java, JUnit 5, JaCoCo, Maven |
+| [patterns-architecture-lab](https://github.com/CodigoPeraza/patterns-architecture-lab) | Flujo de pedidos con Strategy, Factory, Observer y Repository, arquitectura por capas y ADRs | Java, Maven, JUnit 5 |
+| [security-lab](https://github.com/CodigoPeraza/security-lab) | Login, roles, BCrypt, CSRF, cabeceras CSP y pruebas de seguridad con Spring Security | Java, Spring Boot, Spring Security, Thymeleaf |
+| [cloud-deploy-lab](https://github.com/CodigoPeraza/cloud-deploy-lab) | Servicio Node sin dependencias con health checks, Docker, CI y configuración de despliegue en Render | Node.js, Docker, GitHub Actions, Render |
 | [SaladRey](https://github.com/CodigoPeraza/SaladRey) | App Android con catálogo, carrito, CRUD administrativo, roles y persistencia local | Java, Android, Room, LiveData, Material |
 | [CRUD Spring](https://github.com/CodigoPeraza/crud-spring) | Aplicación Full Stack con capas MVC, JPA, plantillas y despliegue con Docker | Java, Spring Boot, Thymeleaf, MariaDB |
 | [Bootcamp Laravel](https://github.com/CodigoPeraza/bootcamp-laravel) | Autenticación completa, perfil de usuario y frontend moderno | PHP, Laravel, Breeze, Tailwind, Vite |
@@ -90,9 +98,11 @@ Me gusta documentar lo que hago para que otra persona pueda ejecutarlo, revisarl
 ## Áreas de interés
 
 - Administración y operación de sistemas Linux.
+- Bases de datos relacionales: diseño, normalización y administración.
 - Infraestructura, contenedores y despliegues.
 - Soporte TI y automatización de tareas con shell.
 - Redes y herramientas de simulación.
+- Seguridad de aplicaciones, pruebas automatizadas y CI/CD.
 - Desarrollo de software con base sistémica: Android, Spring Boot y Laravel.
 - Documentación técnica y buenas prácticas de desarrollo.
 
